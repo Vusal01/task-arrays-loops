@@ -1,0 +1,14 @@
+C:\Users\vusal\OneDrive\Desktop\kod yazmaq\bin\Debug\net6.0\kod yazmaq.exe
+C:\Users\vusal\OneDrive\Desktop\kod yazmaq\bin\Debug\net6.0\kod yazmaq.deps.json
+C:\Users\vusal\OneDrive\Desktop\kod yazmaq\bin\Debug\net6.0\kod yazmaq.runtimeconfig.json
+C:\Users\vusal\OneDrive\Desktop\kod yazmaq\bin\Debug\net6.0\kod yazmaq.dll
+C:\Users\vusal\OneDrive\Desktop\kod yazmaq\bin\Debug\net6.0\kod yazmaq.pdb
+C:\Users\vusal\OneDrive\Desktop\kod yazmaq\obj\Debug\net6.0\kod yazmaq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vusal\OneDrive\Desktop\kod yazmaq\obj\Debug\net6.0\kod yazmaq.AssemblyInfoInputs.cache
+C:\Users\vusal\OneDrive\Desktop\kod yazmaq\obj\Debug\net6.0\kod yazmaq.AssemblyInfo.cs
+C:\Users\vusal\OneDrive\Desktop\kod yazmaq\obj\Debug\net6.0\kod yazmaq.csproj.CoreCompileInputs.cache
+C:\Users\vusal\OneDrive\Desktop\kod yazmaq\obj\Debug\net6.0\kod yazmaq.dll
+C:\Users\vusal\OneDrive\Desktop\kod yazmaq\obj\Debug\net6.0\refint\kod yazmaq.dll
+C:\Users\vusal\OneDrive\Desktop\kod yazmaq\obj\Debug\net6.0\kod yazmaq.pdb
+C:\Users\vusal\OneDrive\Desktop\kod yazmaq\obj\Debug\net6.0\kod yazmaq.genruntimeconfig.cache
+C:\Users\vusal\OneDrive\Desktop\kod yazmaq\obj\Debug\net6.0\ref\kod yazmaq.dll
